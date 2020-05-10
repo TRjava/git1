@@ -12,5 +12,6 @@ protected tst() throws IOException, SecurityException {
 private void syso() {
 	// TODO Auto-generated method stub
 syso();
+123456
 }
 }
