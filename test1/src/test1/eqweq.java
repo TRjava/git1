@@ -4,5 +4,9 @@ public interface eqweq {
   public int a();
   public int b();
   public int c();
+
   public int f();
+
+  public int d();
+
 }
